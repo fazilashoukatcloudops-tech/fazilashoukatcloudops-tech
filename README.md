@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/bh.png" alt="Fazila Shoukat Cloud and DevOps Banner" width="100%">
+  <img src="bm.png" alt="Fazila Shoukat Cloud and DevOps Banner" width="100%">
 </p>
 # Hi, I'm Fazila Shoukat 👋
 
