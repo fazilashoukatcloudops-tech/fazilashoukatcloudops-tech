@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="bm.png" alt="Fazila Shoukat Cloud and DevOps Banner" width="100%">
+  <img src="bm.png" alt="Fazila Shoukat Cloud and DevOps Banner" width="100%" style="border-radius: 12px;">
 </p>
-# Hi, I'm Fazila Shoukat 👋
+Hi, I'm Fazila Shoukat 👋
 
 ### ☁️ Cloud Engineer | DevOps Engineer | Cloud Security Engineer | Cloud Infrastructure Designer | Cloud Data Engineer | AI/ML Engineer
 
